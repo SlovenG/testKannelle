@@ -32,7 +32,7 @@ Description du projet:
   animation lottie integré par desssus la vidéo
   la possibilité de Screen Record le rendu, le chemin de la vidéo étant accessible dans le dossier SDCARD du Device ou Simulateur .
   
-N'ayant pas reussi a implementer tout ce que j'aurais voulu, j'ai tout de meme que tout ceci etait accessible en denichant une App:Kinemaster permettant l'editing de vidéos de facon simple et ergonomique pour un usage sur Smartphone.
+N'ayant pas reussi a implementer tout ce que j'aurais voulu, j'ai tout de meme vu que tout ceci etait possible en denichant une App:Kinemaster permettant l'editing de vidéos de facon simple et ergonomique pour un usage sur Smartphone.
 
 Ce projet est voué a être un vrai challenge pour les développeurs travaillant sur celui-ci :)
 
